@@ -3,3 +3,5 @@ WhatsApp features
 1.Video Call
 2.Audio Call
 3.Hiding Last Seen
+4.Add GIF's Options
+5.Adding Stickers and Emogies
