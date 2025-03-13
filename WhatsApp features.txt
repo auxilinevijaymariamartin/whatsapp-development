@@ -2,3 +2,4 @@ WhatsApp features
 
 1.Video Call
 2.Audio Call
+3.Hiding Last Seen
