@@ -5,3 +5,6 @@ WhatsApp features
 3.Hiding Last Seen
 4.Add GIF's Options
 5.Adding Stickers and Emogies
+6.Enjoy with train status
+7.Status length is 1 min
+8.Group call available
