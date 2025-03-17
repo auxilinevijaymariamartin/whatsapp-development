@@ -8,3 +8,4 @@ WhatsApp features
 6.Enjoy with train status
 7.Status length is 1 min
 8.Group call available
+9.Add (photo video document and audio too)
